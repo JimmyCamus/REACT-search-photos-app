@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT-search-photos-app/static/css/main.e9c765bb.css",
+    "main.js": "/REACT-search-photos-app/static/js/main.89aec68a.js",
+    "static/js/787.795aa108.chunk.js": "/REACT-search-photos-app/static/js/787.795aa108.chunk.js",
+    "index.html": "/REACT-search-photos-app/index.html",
+    "main.e9c765bb.css.map": "/REACT-search-photos-app/static/css/main.e9c765bb.css.map",
+    "main.89aec68a.js.map": "/REACT-search-photos-app/static/js/main.89aec68a.js.map",
+    "787.795aa108.chunk.js.map": "/REACT-search-photos-app/static/js/787.795aa108.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c765bb.css",
+    "static/js/main.89aec68a.js"
+  ]
+}
