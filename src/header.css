@@ -1,0 +1,31 @@
+html{
+    box-sizing: content-box;
+}
+
+html *{
+    box-sizing: inherit;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    padding: 22px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+    position: relative;
+}
+
+header h1{
+    text-align: center;
+    font-size: 25px;
+}
+
+header input{
+    outline: none;
+    width: 100%;
+    border: solid 1px rgb(107, 107, 107);
+    padding: 10px 5px;
+    border-radius: 4px;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    background-color: #eee;
+    justify-content: center;
+}
+
+.center{
+    column-count: 3;
+    width: 1200px;
+}
+
+@media screen and (max-width: 768px)  {
+    .center{
+        column-count: 2;
+        width: 100%;
+    }
+}

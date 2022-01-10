@@ -1,0 +1,32 @@
+article{
+    display: inline-block;
+    width: 370px;
+    transition: box-shadow 0.2s ease;
+    margin: 40px 10px 0 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+article > img {
+    width: inherit;
+    border-radius: 5px 5px 0px;
+}
+
+article > p{
+    margin: 10px 15px;
+}
+
+article:hover{
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (max-width: 768px){
+    article{
+        width: 160px;
+    }
+
+    article > p{
+        font-size: 10px
+    }
+}
